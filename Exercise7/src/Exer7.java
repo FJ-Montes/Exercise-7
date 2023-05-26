@@ -3,6 +3,7 @@ import java.sql.*;
 public class Exer7 {
 
     public static void main(String[] args) {
+        
         String url = "jdbc:postgresql://localhost:5432/JavaTraining?encoding=UTF8"; 
         String username = "postgres"; 
         String password = "1234";
